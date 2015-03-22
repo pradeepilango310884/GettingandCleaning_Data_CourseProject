@@ -1,5 +1,5 @@
 
-## Variables Definition & Code Guide:
+## Variables Definition 
 * x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
 
 * x_dataset, y_dataset and subject_dataset merges their respective datasets to further analysis.
